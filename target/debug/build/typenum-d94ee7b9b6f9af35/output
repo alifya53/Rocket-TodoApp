@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\Dell\Desktop\claass code Q3\rocket_1\target\debug\build\typenum-d94ee7b9b6f9af35\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\Dell\Desktop\claass code Q3\rocket_1\target\debug\build\typenum-d94ee7b9b6f9af35\out\op.rs

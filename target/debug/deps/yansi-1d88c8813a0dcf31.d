@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\claass code Q3\rocket_1\target\debug\deps\yansi-1d88c8813a0dcf31.rmeta: C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+C:\Users\Dell\Desktop\claass code Q3\rocket_1\target\debug\deps\libyansi-1d88c8813a0dcf31.rlib: C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+C:\Users\Dell\Desktop\claass code Q3\rocket_1\target\debug\deps\yansi-1d88c8813a0dcf31.d: C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs:
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs:
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs:
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs:
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs:
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs:
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs:
