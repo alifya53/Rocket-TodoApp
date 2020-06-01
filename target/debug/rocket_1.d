@@ -1,1 +1,1 @@
-C:\Users\Dell\Desktop\claass\ code\ Q3\rocket_1\target\debug\rocket_1.exe: C:\Users\Dell\Desktop\claass\ code\ Q3\rocket_1\src\main.rs
+/home/alifya/Rocket-TodoApp/target/debug/rocket_1: /home/alifya/Rocket-TodoApp/src/main.rs

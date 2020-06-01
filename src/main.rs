@@ -48,16 +48,16 @@ fn testDelete(id: usize) -> Option<NamedFile> {
     }
 }
 
-// #[put("/<id>/<value>")]
-// fn testPut(id: usize, value: String) -> Option<NamedFile> {
-//     let mut map = HASHMAP.lock().unwrap();
-//     unsafe {
+#[put("/<id>/<value>")]
+fn testPut(id: usize, value: String) -> Option<NamedFile> {
+    let mut map = HASHMAP.lock().unwrap();
+    unsafe {
        
-//         map.insert(&id, value);
-//         println!("{:?}", map);
-//         NamedFile::open("static/index.html").ok()
-//     }
-// }
+        map.insert(&id, value);
+        println!("{:?}", map);
+        NamedFile::open("static/index.html").ok()
+    }
+}
 #[get("/")]
 fn index() -> Option<NamedFile> {
     NamedFile::open("static/index.html").ok()
